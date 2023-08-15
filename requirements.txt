@@ -1,0 +1,13 @@
+****Installation Commands****
+
+1. pip install robotframework
+
+2. pip install selenium
+
+3. Install Firefox and geckdriver (Attached geckodriver.exe file)
+
+****EXECUTION COMMANDS****
+
+Navigate to 'cypress_tech_test' folder and execute
+  
+   1. robot cypress_automation.robot
